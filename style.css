@@ -1,0 +1,19 @@
+.udemy__certificates {
+    display: block;
+    padding-top: 50px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.udemy__certificate {
+    display: inline-block;
+    max-width: 600px;
+    max-height: 600px;
+}
+
+.udemy__certificate-1 {
+
+}
